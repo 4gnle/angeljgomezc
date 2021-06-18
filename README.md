@@ -13,8 +13,4 @@ Learn how to build my own web apps. Slowly build the skills to become a quality 
 
 Want to know more about me?
 
-Check my website: https://www.angelgomez.tech
-
 My blog at: https://www.angelgomez.tech/blog
-
-My Twitter: @angelgomeztw
