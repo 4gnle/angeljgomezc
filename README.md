@@ -9,7 +9,7 @@ Last update: 26/06/2021
 
 What's my purpose?
 
-Learn how to build my own web apps. Slowly build the skills to become a quality developer. And collaborate with smart and driven people in the long term.
+Build a public web app that everyone can collaborate on. 
 
 Want to know more about me?
 
