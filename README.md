@@ -2,10 +2,10 @@ Junior developer for life
 
 I'm trying to program for a year straight, every day, for at least an hour
 
-Progress so far 14/365
+Progress so far 22/365
 
 Start date: 12/06/2021
-Last update: 26/06/2021
+Last update: 04/07/2021
 
 What's my purpose?
 
