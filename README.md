@@ -1,5 +1,3 @@
-Junior developer for life
-
 I'm trying to program for a year straight, every day, for at least an hour
 
 Progress so far 27/365
