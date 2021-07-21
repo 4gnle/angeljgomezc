@@ -1,9 +1,9 @@
 I'm trying to program for a year straight, every day, for at least an hour
 
-Progress so far 32/365
+Progress so far 38/365
 
 Start date: 12/06/2021
-Last update: 14/07/2021
+Last update: 20/07/2021
 
 What's my purpose?
 
