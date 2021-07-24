@@ -7,7 +7,7 @@ Last update: 20/07/2021
 
 What's my purpose?
 
-Build a public web app and collaborate with smart and driven people. 
+Build a public web app and collaborate with smart and driven people (as I learn)
 
 Want to know more about me?
 
