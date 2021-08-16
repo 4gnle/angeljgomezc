@@ -1,9 +1,9 @@
 I'm trying to program for a year straight, every day, for at least an hour
 
 Start date: 12/06/2021
-Last updated: 03/08/2021
+Last updated: 16/08/2021
 
-Progress so far 52/365
+Progress so far 65/365
 
 Want to know more about me?
 
