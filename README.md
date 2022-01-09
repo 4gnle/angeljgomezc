@@ -8,7 +8,7 @@ I want to:
 - Learn a lot from everything and everyone
 
 ALSO:
-I tried to program for a year straight, every day, for at least an hour
+I tried to code for a year straight, every day, for at least an hour
 
 Failed at 189 days 
 
